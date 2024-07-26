@@ -1,4 +1,4 @@
-<h1 align="center">Hello!👋, Welcome to my Profile</h1>
+<h1 align="center">Welcome to my Profile!!👋</h1>
 
 ### About Me:
 My name is Do Ba Chinh. A Website Developer from Vietnam. My main programming language is PHP and Laravel Framework. I'm currently learning React.JS and many other languages. In the future, I want to develop and challenge myself further to become a Full-Stack developer. 
