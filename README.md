@@ -1,5 +1,4 @@
 <h1 align="center">Hello!👋, I'm Do Ba Chinh</h1>
-<h3 align="center">A Back-end PHP Developer</h3>
 
 ### About Me:
 My name is Do Ba Chinh. A Website Developer from Vietnam. My main programming language is PHP and Laravel Framework. I'm currently learning React.JS and many other languages, in the future I want to try and develop myself further and become a Full-Stack developer. 
