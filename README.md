@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Do Ba Chinh</h1>
+<h1 align="center">Hello There 👋, I'm Do Ba Chinh</h1>
 <h3 align="center">A Back-end PHP Developer</h3>
 
 - 🔭 I’m currently working on [FlashNews](https://github.com/dobachinh04/FlashNews)
