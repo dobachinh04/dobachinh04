@@ -14,6 +14,4 @@ My name is Do Ba Chinh. A Website Developer from Vietnam. My main programming la
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dobachinh04&theme=gotham&hide_border=false)
 
----
-[![](https://visitcount.itsvg.in/api?id=dobachinh04&icon=1&color=0)](https://visitcount.itsvg.in)
 
